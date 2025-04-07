@@ -21,7 +21,7 @@ This is a front-end project built using **HTML**, **CSS**, and **JavaScript**, i
 
 - **HTML5** – Semantic and accessible structure
 - **CSS3** – Custom styles with animations and transitions
-- **JavaScript (Vanilla)** – DOM interaction and dynamic effects
+- **JavaScript** – DOM interaction and dynamic effects
 
 ---
 
